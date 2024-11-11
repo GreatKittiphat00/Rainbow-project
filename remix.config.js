@@ -1,6 +1,6 @@
 module.exports = {
-    serverBuildTarget: "netlify",  // ใช้ Netlify ในการ build
-    appDirectory: "routes",           // ถ้าคุณใช้ src สำหรับโค้ดหลัก
+    serverBuildTarget: "netlify",
+    appDirectory: "app",
     publicPath: "/build/",
   };
   
